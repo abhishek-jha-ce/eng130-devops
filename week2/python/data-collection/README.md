@@ -8,7 +8,7 @@
 - It does not allow duplicates
 - Syntax: variable_name = { "key" : value }
 
-### Examples
+### Examples - [filename: "*dict.py*"]
 ```commandline
 # Store student's data - name, course_name, progress, completed_lessons
 student_1 = {
@@ -45,7 +45,7 @@ print(student_1.values())  # Output: dict_values(['values', 'Abhishek', 'DevOps'
 print(type(student_1.values()))  # Output: <class 'dict_values'>
 ```
 
-### Challenge Exercise
+### Challenge Exercise - [filename: "*story.py*"]
 
 #### Task 1: Defining a dictionary
 ```
